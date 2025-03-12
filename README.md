@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @louisdg
 - 👀 I’m interested in music, video games, and coding! I'm a big fan of React, TypeScript and 3D graphics.
-- 🌱 I’m currently working as a Fullstack Engineer at Slate Digital.
 - 📫 You can reach me at louis.degaudenzi@gmail.com or on [my LinkedIn profile](https://www.linkedin.com/in/louis-degaudenzi/).
